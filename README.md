@@ -1,0 +1,14 @@
+# liber_retail-user 11 RPIS31.Q2-42-25-1 19a8e release-keys
+- manufacturer: motorola
+- platform: sm6150
+- codename: liber
+- flavor: liber_retail-user
+- release: 11
+- id: RPIS31.Q2-42-25-1
+- incremental: 19a8e
+- tags: release-keys
+- fingerprint: motorola/liber_retail/liber:11/RPIS31.Q2-42-25-1/19a8e:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: liber_retail-user-11-RPIS31.Q2-42-25-1-19a8e-release-keys
+- repo: motorola_liber_dump
